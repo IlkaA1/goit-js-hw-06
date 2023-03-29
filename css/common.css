@@ -26,4 +26,10 @@ button {
 .gallery {
   display: grid;
   justify-items: center;
+  list-style: none;
+}
+
+.gallery-img {
+  width: 400px;
+  margin-bottom: 20px;
 }
